@@ -29,7 +29,7 @@ I am also an active Real Estate Investor, and hold my Real Estate license in the
 <a href="https://www.instagram.com/maximilian_jh/"><img width="40" height="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg"/></a>
 <a href="https://www.facebook.com/maximilian.holzmann.33"><img width="40" height="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Facebook.svg"/></a>
 
-## Github Stats
+## GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxHolzmann)](https://github.com/anuraghazra/github-readme-stats)
 
