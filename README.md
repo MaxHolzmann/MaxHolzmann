@@ -1,7 +1,5 @@
 ![download](https://user-images.githubusercontent.com/16532491/230646947-719b86f6-3f6c-4b07-9e2c-95d95e1895a6.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F7CB4E&width=435&lines=About+Me)](https://git.io/typing-svg)
-
 Hello! My name is Maximilian Holzmann, and I'm based out of Fond du Lac, Wisconsin. I am currently a student in University of Minnesota's Full Stack Bootcamp for web development. 
 
 Outside of Web Development, I have many hobbies. I love to sing with my community choir and with my [acapella quartet](https://maxholzmann.github.io/blueberriesmusic/). I prioritize working out and staying active every day, through many activities such as running or pick up basketball. I also volunteer on the Board of Directors in two community organizations, through South Shore Chorale and United Way Fond du Lac.
