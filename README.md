@@ -1,4 +1,4 @@
-# Introduction 👋
+![download](https://user-images.githubusercontent.com/16532491/230646947-719b86f6-3f6c-4b07-9e2c-95d95e1895a6.png)
 
 Hello! My name is Maximilian Holzmann, and I'm based out of Fond du Lac, Wisconsin. I am currently a student in University of Minnesota's Full Stack Bootcamp for web development. 
 
