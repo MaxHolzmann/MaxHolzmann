@@ -24,11 +24,10 @@ I am also an active Real Estate Investor, and hold my Real Estate license in the
 
 ## Socials
 <div align="left" margin="10">
-<a href="" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg"/></a>
-<a href="your link" target="blank"><img width="40" height="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" /></a>
-<a href="your link" target="blank"><img width="40" height="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg"/></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</div>
+<!-- <a href="" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg"/></a> -->
+<a href="https://www.linkedin.com/in/maximilian-holzmann-416483216/" target="blank"><img width="40" height="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" /></a>
+<a href="https://www.instagram.com/maximilian_jh/" target="blank"><img width="40" height="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg"/></a>
+<a href="https://www.facebook.com/maximilian.holzmann.33" target="blank"><img width="40" height="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Facebook.svg"/></a>
 
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxHolzmann)](https://github.com/anuraghazra/github-readme-stats)
