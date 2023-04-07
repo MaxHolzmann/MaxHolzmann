@@ -8,4 +8,9 @@ I am also an active Real Estate Investor, and hold my Real Estate license in the
 
 ## Languages
 
+![JavaScript-Logo](https://user-images.githubusercontent.com/16532491/230644997-79183507-336b-4eff-8f41-77f0bdd1b2b0.png)
+![React-icon svg](https://user-images.githubusercontent.com/16532491/230645005-c5b024e9-0a49-4455-be0a-3fb9c1a7507b.png)
+![nodejs-logo](https://user-images.githubusercontent.com/16532491/230645009-d0bfa920-a0b2-48a1-8c99-32c7a1eb321d.png)
+
+
 ## Certificates
