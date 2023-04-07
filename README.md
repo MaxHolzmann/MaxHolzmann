@@ -22,5 +22,13 @@ I am also an active Real Estate Investor, and hold my Real Estate license in the
 
 ## Certificates
 
+## Socials
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
+
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxHolzmann)](https://github.com/anuraghazra/github-readme-stats)
