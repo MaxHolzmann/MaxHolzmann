@@ -25,9 +25,7 @@ I am also an active Real Estate Investor, and hold my Real Estate license in the
 ## Socials
 <p align="left">
 <a href="" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg"/></a>
-  
 <a href="your link" target="blank"><img width="40" height="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" /></a>
-  
 <a href="your link" target="blank"><img width="40" height="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg"/></a>
   
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
