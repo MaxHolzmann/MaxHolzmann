@@ -2,9 +2,7 @@
 
 Hello! My name is Maximilian Holzmann, and I'm based out of Fond du Lac, Wisconsin. I am a graduate of University of Minnesota's Full Stack Bootcamp for web development. 
 
-Outside of Web Development, I have many hobbies. I love to sing with my community choir and with my [acapella quartet](https://blueberriesmusic.vercel.app/). I prioritize working out and staying active every day, through many activities such as running or pick up basketball. I also volunteer on the Board of Directors in two community organizations, through South Shore Chorale and United Way Fond du Lac.
-
-I am also an active Real Estate Investor, and hold my Real Estate license in the state of Wisconsin. 
+Outside of Web Development, I have many hobbies. I love to sing with my community choir and with my [acapella quartet](https://blueberriesmusic.vercel.app/). I prioritize working out and staying active every day, through many activities daily strength training, running & pickup basketball. I also volunteer on the Board of Directors for South Shore Chorale, and previously served on the board for United Way Fond du Lac.
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
